@@ -1,0 +1,50 @@
+.fondo{
+    background-image: url(../images/degrade.jpg);
+}
+.titulo{
+    color: white;
+}
+.carousel{
+    width: 1000px;
+}
+.nav{
+    background-color: rgb(132, 165, 194);
+    color: white;
+}
+.presentacion{
+    background-color: rgb(6, 104, 150);
+    border-radius: 5px;
+}
+
+.main{
+    background-color: white;
+}
+
+.letra{
+    color: black;
+}
+.titulo1{
+    color: white;
+}
+.f1{
+    margin: 20px 90px 50px 225px;
+    background-color: rgb(132, 165, 194) ;
+}
+
+.f2{
+    margin: 20px 90px 50px 90px;
+    background-color: rgb(132, 165, 194) ;
+}
+
+.f3{
+    margin: 20px 90px 50px 90px;
+    background-color: rgb(132, 165, 194) ;
+}
+.footer{
+    color: white;
+    background-image: url(../images/degrade.jpg);
+    text-decoration: none;
+}
+.f{
+    background-color:rgb(132, 165, 194) ;
+}
